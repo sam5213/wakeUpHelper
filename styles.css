@@ -44,18 +44,18 @@ body {
 }
 
 .wake-button:hover {
-    background-color: #3e5943;
+    background-color: #4682B4;
 }
 
 .wake-button:disabled {
-    background-color: #658f6c; /* Бледный цвет для неактивной кнопки */
+    background-color: #B0C4DE; /* Бледный цвет для неактивной кнопки */
     cursor: not-allowed; /* Изменение курсора на "нельзя" */
 }
 
 .message {
     margin-top: 20px;
     font-size: 18px;
-    color: #3e5943;
+    color: #4682B4;
 }
 
 #progressContainer {
